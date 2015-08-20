@@ -4,19 +4,19 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.sakshi"
         versionCode = "391"
-        version   = "1.15-v1">
-    <name>Sakshi Mobile</name>
+        version   = "1.15-1">
+    <name>Sakshi Moodle</name>
 
     <description>
-        Sakshi Mobile App
+        Moodle Mobile official app
     </description>
 
     <author href="http://www.patashala.com" email="elavarasan@patashala.com">
-        Juan Leyva
+       Elavarasan
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>1.15</string>
+        <string>1.15-1</string>
     </gap:config-file>
 
     <preference name="android-minSdkVersion" value="5" />
