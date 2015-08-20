@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.moodle.sakshi"
         versionCode = "391"
-        version   = "1.15">
+        version   = "1.15-v1">
     <name>Moodle Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Moodle Mobile Sakshi app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
+    <author href="http://www.patashala.com" email="elavarasan@patashala.com">
         Juan Leyva
     </author>
 
